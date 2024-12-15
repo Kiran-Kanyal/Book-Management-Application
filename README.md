@@ -1,6 +1,6 @@
 # 📚 Book Management System
 
-A simple **Book Management System** built using **React**, **Node.js**, **JavaScript**, and **MongoDB**. This application allows users to manage a collection of books, including adding, editing, and deleting book entries.
+A simple **Book Management System** built using **React**, **Node.js**, **TypeScript**, and **MongoDB**. This application allows users to manage a collection of books, including adding, editing, and deleting book entries.
 
 ---
 
